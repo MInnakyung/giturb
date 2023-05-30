@@ -1,0 +1,49 @@
+@media(max-width:800px) {
+    h1 {
+        background-color: aqua;
+    }
+}
+
+h1 {
+    font-family: 'Cinzel', serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+}
+
+#bg {
+    background-color: aliceblue;
+    width: 30em;
+}
+
+#font {
+    background-color: ivory;
+}
+
+#selector {
+    background-color: beige;
+
+}
+
+h3 {
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Rubik Iso' cursive;
+    color: lightcoral;
+    font-weight: bold;
+}
+
+h6 {
+    color: cornflowerblue;
+
+}
+
+#cat {
+    background-image: url(고양이.jpg);
+    background-color: antiquewhite;
+
+}
+
+button:active {
+    color: aqua;
+}

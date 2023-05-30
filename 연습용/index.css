@@ -1,0 +1,2 @@
+h1{background-color: bisque;}
+@media(max-width:500px){h1{background-color: aqua;}}

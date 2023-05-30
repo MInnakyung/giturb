@@ -1,0 +1,16 @@
+#cccc{
+        background-color: aquamarine ;
+        font-size: 100px;}
+        div h2{
+            border: 1px solid
+            ; color: azure ;
+        }
+        div > h2 {
+            background-color: blue;
+        }
+        h1 :hover{
+            display: inline;
+            border: 1px solid black;
+            text-align: right;
+        }
+        
