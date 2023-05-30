@@ -87,7 +87,7 @@ for (i = 0; i <= 100; i++) {
 //     "컴퓨터가 1~100 중 랜덤숫자 하나를 정합니다. 이 숫자를 맞춰주세요."
 //   );
 
-//   userAnswer = parseInt(input);
+//   userAnswer = parseInt(input); 1
 
 //   if (userAnswer < comAnswer) {
 //     alert("UP");
