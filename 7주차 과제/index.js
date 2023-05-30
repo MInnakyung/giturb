@@ -52,7 +52,7 @@ var emailPrefix = email.slice(0, atIndex);
 console.log(emailPrefix);
 
 
-
+// 안녕하세요 
 
 
 
